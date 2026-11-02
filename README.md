@@ -11,6 +11,32 @@
 
 ---
 
+```zsh
+┌──(neondeveloperz㉿sec-node)-[~]
+└─$ neofetch --profile
+
+         .---.           neondeveloperz@sec-node
+        /     \          -----------------------
+       | ()_() |         OS          : macOS / Hardened Linux / Alpine Sandboxes
+        \  _  /          Host        : Apple Silicon ARM64 & x86_64 Nodes
+         '---'           Kernel      : Darwin 25.x / Linux 6.x (Isolated Runtimes)
+        /|   |\          Uptime      : 99.99% (Continuous Delivery / Zero-Downtime)
+       (_|   |_)         Shell       : zsh 5.9 / tmux
+                         Role        : Full-Stack Engineer • AppSec • Reverse Engineer
+                         Mindset     : Builder (Clean Arch) ⚔️ Auditor (Zero-Trust)
+                         Languages   : Rust, Go, TypeScript, Python, C++, Dart, PHP
+                         Frameworks  : Next.js, React 19, Tauri v2, Flutter, Laravel
+                         Sec Tools   : Frida (Dynamic Hooking), Ghidra, Rizin, GDB, Wireshark
+                         DevOps/IaC  : Multi-Stage Non-Root Docker, Kubernetes, AWS, Traefik
+                         AI & MCP    : Model Context Protocol (MCP), Multi-Agent Pipelines
+                         Defense     : STRIDE Threat Modeling, OWASP Top 10, Gitleaks Shield
+                         Status      : 🟢 [ONLINE] Compiling, Hooking & Hardening Systems
+
+                         ███ ███ ███ ███ ███ ███ ███ ███
+```
+
+---
+
 ### ⚡ About Me
 
 > **"Bridging scalable software architecture with offensive & defensive security engineering."**
